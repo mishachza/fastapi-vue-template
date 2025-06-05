@@ -59,4 +59,4 @@ After startup:
 ## API Endpoints
 
 - `GET /test` - Test endpoint
-  - Response: `{"message": "API is worked!", "status": "success"}` 
+  - Response: `{"message": "API is working!", "status": "success"}` 
