@@ -49,6 +49,7 @@ After startup:
   - SQLAlchemy
   - PostgreSQL
   - Pydantic
+  - Docker
 
 - Frontend:
   - Vue.js 3
@@ -59,4 +60,4 @@ After startup:
 ## API Endpoints
 
 - `GET /test` - Test endpoint
-  - Response: `{"message": "API is working!", "status": "success"}` 
+  - Response: `{"message": "API работает!", "status": "success"}` 
